@@ -21,3 +21,4 @@ This project belongs to Chris Bonifacio.
   - git revert: Revert some existing commits. It is used to record some new commits to reverse the effect of earlier ones, usually only a faulty one. If you want to throw away all uncommited changes in working directory, there is the --hard option.
 
   - git clean: Remove untracked files from the working tree. Cleans the working tree by recursively removing files that are not under version control, starting from the current directory. Usually, only files unknown to Git are removed, but the -x option can be used to remove ignored files as well. This is useful for removing all build products.
+  asdasdasdas
